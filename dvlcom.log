@@ -1,0 +1,135 @@
+=E:[UndefinedMacro] <demotable>:
+    The following macros were never defined:    
+
+    seq_item.sv:16:5                                      uvm_field_int             
+    Included from /home/sameer/Documents/apb/tb.sv:4:1    uvm_field_int             
+    /home/sameer/Documents/apb/tb.sv:5:1                  uvm_object_utils_end      
+    /home/sameer/Documents/apb/seq_item.sv:19:5           uvm_object_utils          
+    /home/sameer/Documents/apb/seq_item.sv:20:5           uvm_do                    
+    /home/sameer/Documents/apb/apb_seq.sv:2:1             uvm_object_utils_begin    
+    /home/sameer/Documents/apb/apb_seq.sv:9:2             uvm_field_int             
+    seq_item.sv:12:5                                      uvm_field_int             
+    Included from /home/sameer/Documents/apb/tb.sv:4:1    uvm_field_int             
+    /home/sameer/Documents/apb/tb.sv:5:1                  uvm_field_int             
+    seq_item.sv:13:5                                      uvm_field_int             
+    Included from /home/sameer/Documents/apb/tb.sv:4:1    uvm_field_int             
+    /home/sameer/Documents/apb/tb.sv:5:1                  uvm_field_int             
+    seq_item.sv:14:5                                      uvm_object_utils_end      
+    Included from /home/sameer/Documents/apb/tb.sv:4:1    uvm_object_component      
+    /home/sameer/Documents/apb/tb.sv:5:1                  uvm_object_component      
+    seq_item.sv:15:5                                      uvm_fatal                 
+    Included from /home/sameer/Documents/apb/tb.sv:4:1    uvm_object_component      
+    /home/sameer/Documents/apb/tb.sv:5:1                  uvm_field_int             
+    /home/sameer/Documents/apb/seq_item.sv:18:5           uvm_field_int             
+    seq_item.sv:17:5                                      uvm_field_int             
+    Included from /home/sameer/Documents/apb/tb.sv:4:1    uvm_field_int             
+    /home/sameer/Documents/apb/tb.sv:5:1                  uvm_field_int             
+    seq_item.sv:18:5                                      uvm_object_utils_begin    
+    Included from /home/sameer/Documents/apb/tb.sv:4:1    uvm_object_utils_end      
+    /home/sameer/Documents/apb/tb.sv:5:1                  uvm_field_int             
+    seq_item.sv:19:5                                      uvm_field_int             
+    Included from /home/sameer/Documents/apb/tb.sv:4:1    uvm_field_int             
+    /home/sameer/Documents/apb/tb.sv:5:1                  uvm_field_int             
+    seq_item.sv:20:5                                      uvm_field_int             
+    Included from /home/sameer/Documents/apb/tb.sv:4:1    uvm_field_int             
+    /home/sameer/Documents/apb/tb.sv:5:1                  uvm_field_int             
+    /home/sameer/Documents/apb/apb_test.sv:2:2            uvm_object_utils_begin    
+    /home/sameer/Documents/apb/driver.sv:2:2                                        
+    /home/sameer/Documents/apb/driver.sv:11:5                                       
+    /home/sameer/Documents/apb/agent.sv:2:2                                         
+    /home/sameer/Documents/apb/seq_item.sv:17:5                                     
+    /home/sameer/Documents/apb/seq_item.sv:16:5                                     
+    /home/sameer/Documents/apb/seq_item.sv:15:5                                     
+    /home/sameer/Documents/apb/seq_item.sv:14:5                                     
+    /home/sameer/Documents/apb/seq_item.sv:13:5                                     
+    /home/sameer/Documents/apb/seq_item.sv:12:5                                     
+    seq_item.sv:20:5                                                                
+    Included from /home/sameer/Documents/apb/tb.sv:4:1                              
+    /home/sameer/Documents/apb/tb.sv:5:1                                            
+    seq_item.sv:19:5                                                                
+    Included from /home/sameer/Documents/apb/tb.sv:4:1                              
+    /home/sameer/Documents/apb/tb.sv:5:1                                            
+    seq_item.sv:18:5                                                                
+    Included from /home/sameer/Documents/apb/tb.sv:4:1                              
+    /home/sameer/Documents/apb/tb.sv:5:1                                            
+    seq_item.sv:17:5                                                                
+    Included from /home/sameer/Documents/apb/tb.sv:4:1                              
+    /home/sameer/Documents/apb/tb.sv:5:1                                            
+    seq_item.sv:16:5                                                                
+    Included from /home/sameer/Documents/apb/tb.sv:4:1                              
+    /home/sameer/Documents/apb/tb.sv:5:1                                            
+    seq_item.sv:15:5                                                                
+    Included from /home/sameer/Documents/apb/tb.sv:4:1                              
+    /home/sameer/Documents/apb/tb.sv:5:1                                            
+    seq_item.sv:14:5                                                                
+    Included from /home/sameer/Documents/apb/tb.sv:4:1                              
+    /home/sameer/Documents/apb/tb.sv:5:1                                            
+    seq_item.sv:13:5                                                                
+    Included from /home/sameer/Documents/apb/tb.sv:4:1                              
+    /home/sameer/Documents/apb/tb.sv:5:1                                            
+    seq_item.sv:12:5                                                                
+    Included from /home/sameer/Documents/apb/tb.sv:4:1                              
+    /home/sameer/Documents/apb/tb.sv:5:1                                            
+
+=E:[ParseError]:
+    Parser errors encountered at the following locations:    
+
+    /home/sameer/Documents/apb/agent.sv:14:11       expected '[' instead of 'void'                                            
+
+    /home/sameer/Documents/apb/agent.sv:14:40       expected 'and', 'or', 'intersect'... before 'phase'                       
+
+    /home/sameer/Documents/apb/agent.sv:14:46       unrecognized tokens before ';'                                            
+
+    /home/sameer/Documents/apb/agent.sv:15:30       expected '(' instead of ';'                                               
+
+    /home/sameer/Documents/apb/agent.sv:16:56       unrecognized tokens before ';'                                            
+
+    /home/sameer/Documents/apb/dvlcom.env:1:5       expected '[' or '(' instead of '/'                                        
+
+    /home/sameer/Documents/apb/dvlcom.env:2:1       expected 'matches', ':', '-:'... instead of 'args'                        
+
+    /home/sameer/Documents/apb/dvlcom.env:3:5       unrecognized tokens before 'APPLICATIONINSIGHTS_CONFIGURATION_CONTENT'    
+
+    /home/sameer/Documents/apb/apb.dpf:1:1          unrecognized tokens before '--'                                           
+
+    /home/sameer/Documents/apb/apb_test.sv:18:4     unrecognized tokens before 'seq'                                          
+
+    /home/sameer/Documents/apb/apb_test.sv:18:29    expected '(' instead of ';'                                               
+
+    /home/sameer/Documents/apb/apb_test.sv:19:30    unrecognized tokens before ';'                                            
+
+    /home/sameer/Documents/apb/driver.sv:10:60      expected 'and', 'or', 'intersect'... before 'vintf'                       
+
+    /home/sameer/Documents/apb/driver.sv:10:66      unrecognized tokens before ')'                                            
+
+    /home/sameer/Documents/apb/driver.sv:45:1       spurious 'endclass'                                                       
+
+=E:[IncNotFound]:
+    The following include files were not found in the include search path:    
+
+    /home/sameer/Documents/apb/tb.sv:1:1    uvm_macros.svh    
+
+    /home/sameer/Documents/apb/tb.sv:1:1    uvm_macros.svh    
+
+    Simulator invoked from directory: /home/sameer/Documents/apb    
+    Include search path:                                            
+
+        
+
+=E:[Redefinition]:
+    The following items have previous definitions with the same name.    
+
+    /home/sameer/Documents/apb/seq_item.sv:2:1            seq_item    seq_item.sv:2:1                                       
+                                                                      Included from /home/sameer/Documents/apb/tb.sv:4:1    
+
+    seq_item.sv:2:1                                       seq_item    seq_item.sv:2:1                                       
+    Included from /home/sameer/Documents/apb/tb.sv:4:1                Included from /home/sameer/Documents/apb/tb.sv:4:1    
+
+=W:[DupModuleDefnLib]:
+    The following items have previous definitions with the same name.    
+    The most recent definition will be used.                             
+    This policy applies because -libmap or configuration was used,       
+    or dvlcom was run.                                                   
+
+    /home/sameer/Documents/apb/tb.sv:5:1    tb    /home/sameer/Documents/apb/tb.sv:5:1    
+
